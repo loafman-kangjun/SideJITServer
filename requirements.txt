@@ -1,2 +1,2 @@
-pymobiledevice3>=4.18.0,<4.19.0
+pymobiledevice3==4.21
 zeroconf==0.132.2
